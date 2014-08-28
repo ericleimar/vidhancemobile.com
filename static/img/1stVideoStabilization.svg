@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="429.41605"
+   height="204.16371"
+   id="svg4398"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="1stVideoStabilization.svg">
+  <defs
+     id="defs4400">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757-3"
+       id="linearGradient5907"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.09102484,0,0,0.19828738,62.24938,866.52824)"
+       x1="2319"
+       y1="52.862183"
+       x2="3841"
+       y2="52.862183" />
+    <linearGradient
+       id="linearGradient3757-3">
+      <stop
+         style="stop-color:#062740;stop-opacity:0;"
+         offset="0"
+         id="stop3759-3" />
+      <stop
+         id="stop3765-3"
+         offset="0.07950066"
+         style="stop-color:#06274f;stop-opacity:0.94117647;" />
+      <stop
+         style="stop-color:#06274f;stop-opacity:0.94117647;"
+         offset="0.92049932"
+         id="stop3767-7" />
+      <stop
+         style="stop-color:#062740;stop-opacity:0;"
+         offset="1"
+         id="stop3761-0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757-3"
+       id="linearGradient5909"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0451723,0,0,0.19828738,203.64551,890.52821)"
+       x1="2319"
+       y1="52.862183"
+       x2="3841"
+       y2="52.862183" />
+    <linearGradient
+       id="linearGradient4230-09">
+      <stop
+         id="stop4232-9"
+         offset="0"
+         style="stop-color:#204a87;stop-opacity:0;" />
+      <stop
+         style="stop-color:#204a87;stop-opacity:1;"
+         offset="0.18273079"
+         id="stop4234-9" />
+      <stop
+         id="stop4236-51"
+         offset="0.83725494"
+         style="stop-color:#204a87;stop-opacity:1;" />
+      <stop
+         id="stop4238-4"
+         offset="1"
+         style="stop-color:#204a87;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3787-1"
+       id="linearGradient5911"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14391084,0,0,0.19828738,-76.89933,842.10683)"
+       x1="3160.7959"
+       y1="-68.535706"
+       x2="4680"
+       y2="-68.535706" />
+    <linearGradient
+       id="linearGradient3787-1">
+      <stop
+         style="stop-color:#a92000;stop-opacity:0;"
+         offset="0"
+         id="stop3789-3" />
+      <stop
+         id="stop3797-28"
+         offset="0.07846484"
+         style="stop-color:#a9200f;stop-opacity:0.94117647;" />
+      <stop
+         id="stop3795-6"
+         offset="0.92101127"
+         style="stop-color:#a9200f;stop-opacity:0.94117647;" />
+      <stop
+         style="stop-color:#a92000;stop-opacity:0;"
+         offset="1"
+         id="stop3791-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757-3"
+       id="linearGradient5913"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.09640746,0,0,0.19828738,72.25956,842.52823)"
+       x1="2319"
+       y1="52.862183"
+       x2="3841"
+       y2="52.862183" />
+    <linearGradient
+       id="linearGradient4351">
+      <stop
+         style="stop-color:#204a87;stop-opacity:0;"
+         offset="0"
+         id="stop4353" />
+      <stop
+         id="stop4355"
+         offset="0.07950066"
+         style="stop-color:#204a87;stop-opacity:1;" />
+      <stop
+         style="stop-color:#204a87;stop-opacity:1;"
+         offset="0.92049932"
+         id="stop4357" />
+      <stop
+         style="stop-color:#204a87;stop-opacity:0;"
+         offset="1"
+         id="stop4359" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="252.10522"
+     inkscape:cy="60.630956"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5868"
+     showgrid="false"
+     fit-margin-top="30"
+     fit-margin-left="30"
+     fit-margin-right="30"
+     fit-margin-bottom="30"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="1920"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4403">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-216.01615,-791.10914)">
+    <g
+       id="g5868"
+       transform="translate(-3.6400996,0.34552765)">
+      <rect
+         y="869.25671"
+         x="273.46323"
+         height="15.506912"
+         width="138.28531"
+         id="rect2987"
+         style="fill:url(#linearGradient5907);fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:url(#linearGradient5909);fill-opacity:1;stroke:none"
+         id="rect3769"
+         width="68.625946"
+         height="15.506912"
+         x="308.46323"
+         y="893.25671" />
+      <rect
+         y="820.76361"
+         x="377.97345"
+         height="15.506912"
+         width="218.62997"
+         id="rect3773"
+         style="fill:url(#linearGradient5911);fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path8758"
+         d="m 249.65624,944.62097 367.70453,0"
+         style="fill:none;stroke:#06274f;stroke-width:2.30180144;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647;display:inline" />
+      <path
+         style="fill:#06274f;fill-opacity:0.94117647;stroke:none;display:inline"
+         d="m 619.0723,944.62097 -6.9173,7.32091 0,-14.64183 z"
+         id="path8763"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.46029472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         x="434.84137"
+         y="937.78674"
+         id="text4743"
+         sodipodi:linespacing="100%"
+         transform="scale(0.97203777,1.0287666)"><tspan
+           id="tspan4745"
+           sodipodi:role="line"
+           x="434.84137"
+           y="937.78674"
+           style="font-size:14.46029472px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1">100 ms</tspan></text>
+      <rect
+         style="fill:url(#linearGradient5913);fill-opacity:1;stroke:none"
+         id="rect3832"
+         width="146.4626"
+         height="15.506912"
+         x="295.96323"
+         y="845.25671" />
+      <text
+         transform="scale(0.97203777,1.0287666)"
+         xml:space="preserve"
+         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         x="164.82968"
+         y="881.40845"
+         id="text3836"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan3838"
+           sodipodi:role="line"
+           x="164.82968"
+           y="881.40845"
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Samsung Galaxy S5</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3842"
+         y="858.07953"
+         x="164.82968"
+         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"
+         transform="scale(0.97203777,1.0287666)"><tspan
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1"
+           y="858.07953"
+           x="164.82968"
+           sodipodi:role="line"
+           id="tspan3844">Apple iPhone 5s</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3850"
+         y="834.70978"
+         x="164.9696"
+         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"
+         transform="scale(0.97203777,1.0287666)"><tspan
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1"
+           y="834.70978"
+           x="164.9696"
+           sodipodi:role="line"
+           id="tspan3852">Sony Xperia Z1 Compact</tspan></text>
+      <text
+         transform="scale(0.97203777,1.0287666)"
+         xml:space="preserve"
+         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         x="164.82968"
+         y="811.2627"
+         id="text3854"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan3856"
+           sodipodi:role="line"
+           x="164.82968"
+           y="811.2627"
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Vidhance Stabilization</tspan></text>
+      <text
+         transform="scale(0.97203777,1.0287666)"
+         sodipodi:linespacing="100%"
+         id="text3923"
+         y="937.78674"
+         x="278.77396"
+         style="font-size:14.46029472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"><tspan
+           style="font-size:14.46029472px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1"
+           y="937.78674"
+           x="278.77396"
+           sodipodi:role="line"
+           id="tspan3925">0 ms</tspan></text>
+      <text
+         transform="scale(0.97203777,1.0287666)"
+         sodipodi:linespacing="100%"
+         id="text3927"
+         y="937.78674"
+         x="513.12103"
+         style="font-size:14.46029472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"><tspan
+           style="font-size:14.46029472px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1"
+           y="937.78674"
+           x="513.12103"
+           sodipodi:role="line"
+           id="tspan3929">1000 ms</tspan></text>
+      <text
+         transform="scale(0.97203777,1.0287666)"
+         sodipodi:linespacing="100%"
+         id="text3931"
+         y="937.78674"
+         x="356.56183"
+         style="font-size:14.46029472px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"><tspan
+           style="font-size:14.46029472px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1"
+           y="937.78674"
+           x="356.56183"
+           sodipodi:role="line"
+           id="tspan3933">10 ms</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4016"
+         y="905.64911"
+         x="288.44586"
+         style="font-size:10.33911133px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"
+         transform="scale(0.97203777,1.0287666)"><tspan
+           style="font-size:10.33911133px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1"
+           y="905.64911"
+           x="288.44586"
+           sodipodi:role="line"
+           id="tspan4018">motion blur</tspan></text>
+      <text
+         transform="scale(0.97203777,1.0287666)"
+         xml:space="preserve"
+         style="font-size:10.33911133px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         x="349.65765"
+         y="905.64911"
+         id="text4020"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan4022"
+           sodipodi:role="line"
+           x="349.65765"
+           y="905.64911"
+           style="font-size:10.33911133px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1">rolling shutter</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4024"
+         y="905.64911"
+         x="411.51123"
+         style="font-size:10.33911133px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"
+         transform="scale(0.97203777,1.0287666)"><tspan
+           style="font-size:10.33911133px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1"
+           y="905.64911"
+           x="411.51123"
+           sodipodi:role="line"
+           id="tspan4026">vibrations</tspan></text>
+      <text
+         transform="scale(0.97203777,1.0287666)"
+         xml:space="preserve"
+         style="font-size:10.33911133px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         x="533.37732"
+         y="905.64911"
+         id="text4028"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan4030"
+           sodipodi:role="line"
+           x="533.37732"
+           y="905.64911"
+           style="font-size:10.33911133px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1">unintended motion, such as walking motion</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text4116"
+         y="904.73724"
+         x="164.82968"
+         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         xml:space="preserve"
+         transform="scale(0.97203777,1.0287666)"><tspan
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1"
+           y="904.73724"
+           x="164.82968"
+           sodipodi:role="line"
+           id="tspan4118">Type of Video Distortion</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
+         x="165.70657"
+         y="937.78668"
+         id="text4322"
+         sodipodi:linespacing="100%"
+         transform="scale(0.97203777,1.0287666)"><tspan
+           id="tspan4324"
+           sodipodi:role="line"
+           x="165.70657"
+           y="937.78668"
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Length of Distortion</tspan></text>
+    </g>
+  </g>
+</svg>

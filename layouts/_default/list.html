@@ -14,12 +14,19 @@
 		<section>
 			<header></header>
 			{{ range .Site.Sections.index.Pages.ByWeight }}
-			<article>
+			<article{{ with .Params.background }} style="background-image: url(/img/{{ . }})"{{ end }}>
 				<header>
-				<h1>{{ .Title }}</h1>
+					<h1>{{ .Title }}</h1>
 				</header>
-				{{ .Content }}
-				<footer></footer>
+				{{ with .Params.image}}
+				<figure>
+					<img src="/img/{{.}}">
+				</figure>
+				{{ end }}
+				<main>
+					{{ .Content }}
+				</main>
+				<footer>{{ with .Params.backgroundCopyright }}<p>{{ . }}</p>{{ end }}</footer>
 			</article>
 			{{ end }}
 			<footer></footer>
