@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="429.41605"
-   height="204.16371"
+   width="491.30405"
+   height="284.1637"
    id="svg4398"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -142,19 +142,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="252.10522"
-     inkscape:cy="60.630956"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="210.4973"
+     inkscape:cy="195.82105"
      inkscape:document-units="px"
      inkscape:current-layer="g5868"
      showgrid="false"
-     fit-margin-top="30"
+     fit-margin-top="70"
      fit-margin-left="30"
      fit-margin-right="30"
-     fit-margin-bottom="30"
-     inkscape:window-width="1920"
-     inkscape:window-height="1176"
-     inkscape:window-x="1920"
+     fit-margin-bottom="70"
+     inkscape:window-width="1399"
+     inkscape:window-height="876"
+     inkscape:window-x="41"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -173,7 +173,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-216.01615,-791.10914)">
+     transform="translate(-154.12817,-751.10914)">
     <g
        id="g5868"
        transform="translate(-3.6400996,0.34552765)">
@@ -234,54 +234,54 @@
          transform="scale(0.97203777,1.0287666)"
          xml:space="preserve"
          style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
-         x="164.82968"
+         x="249.18823"
          y="881.40845"
          id="text3836"
          sodipodi:linespacing="100%"><tspan
            id="tspan3838"
            sodipodi:role="line"
-           x="164.82968"
+           x="249.18823"
            y="881.40845"
-           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Samsung Galaxy S5</tspan></text>
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Samsung</tspan></text>
       <text
          sodipodi:linespacing="100%"
          id="text3842"
          y="858.07953"
-         x="164.82968"
+         x="249.18823"
          style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
          xml:space="preserve"
          transform="scale(0.97203777,1.0287666)"><tspan
            style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1"
            y="858.07953"
-           x="164.82968"
+           x="252.26669"
            sodipodi:role="line"
-           id="tspan3844">Apple iPhone 5s</tspan></text>
+           id="tspan3844">Apple </tspan></text>
       <text
          sodipodi:linespacing="100%"
          id="text3850"
          y="834.70978"
-         x="164.9696"
+         x="249.32816"
          style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
          xml:space="preserve"
          transform="scale(0.97203777,1.0287666)"><tspan
            style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1"
            y="834.70978"
-           x="164.9696"
+           x="249.32816"
            sodipodi:role="line"
-           id="tspan3852">Sony Xperia Z1 Compact</tspan></text>
+           id="tspan3852">Sony</tspan></text>
       <text
          transform="scale(0.97203777,1.0287666)"
          xml:space="preserve"
          style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
-         x="164.82968"
+         x="249.18823"
          y="811.2627"
          id="text3854"
          sodipodi:linespacing="100%"><tspan
            id="tspan3856"
            sodipodi:role="line"
-           x="164.82968"
+           x="249.18823"
            y="811.2627"
-           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Vidhance Stabilization</tspan></text>
+           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Vidhance</tspan></text>
       <text
          transform="scale(0.97203777,1.0287666)"
          sodipodi:linespacing="100%"
@@ -373,32 +373,6 @@
            x="533.37732"
            y="905.64911"
            style="font-size:10.33911133px;text-align:center;line-height:100%;text-anchor:middle;fill:#2e3436;fill-opacity:1">unintended motion, such as walking motion</tspan></text>
-      <text
-         sodipodi:linespacing="100%"
-         id="text4116"
-         y="904.73724"
-         x="164.82968"
-         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
-         xml:space="preserve"
-         transform="scale(0.97203777,1.0287666)"><tspan
-           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1"
-           y="904.73724"
-           x="164.82968"
-           sodipodi:role="line"
-           id="tspan4118">Type of Video Distortion</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:14.46029568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:100%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
-         x="165.70657"
-         y="937.78668"
-         id="text4322"
-         sodipodi:linespacing="100%"
-         transform="scale(0.97203777,1.0287666)"><tspan
-           id="tspan4324"
-           sodipodi:role="line"
-           x="165.70657"
-           y="937.78668"
-           style="font-size:14.46029568px;text-align:end;line-height:100%;text-anchor:end;fill:#2e3436;fill-opacity:1">Length of Distortion</tspan></text>
     </g>
   </g>
 </svg>
