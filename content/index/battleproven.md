@@ -1,6 +1,7 @@
 +++
 title = "Battleproven"
 date = 2014-09-03T01:40:17Z
+image = "battleproven.png"
 weight = 65
 +++
 #### Defense Technology Retargeted
