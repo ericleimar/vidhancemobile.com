@@ -56,6 +56,10 @@ body > main > section > article > main {
 	display: table-cell;
 	vertical-align: middle;
 }
+body > main > section > article > main > video {
+	width: 100%;
+	height: auto;
+}
 body > main > section > article > figure > img {
 	height: 20em;
 	width: auto;
