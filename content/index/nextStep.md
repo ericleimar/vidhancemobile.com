@@ -5,5 +5,5 @@ weight = 25
 image = "nextStep.svg"
 +++
 #### No Sensors, No Buffers, No Hassle, No Delays.
-Excellent result from smartphone video requires both motion sensors (like accelerometer) and optical flow stabilization.
-Vidhance analyze the video data, separates intended from unintended motion, and cancels out the latter. All this is achieved in real time, before the next video frame arrives from the camera.
+Excellent result from smartphone video requires both motion sensors (like accelerometers) and optical flow stabilization.
+Vidhance adds the second, analyzing the video data only. Vidhance separates intended from unintended motion, and cancels out the latter. All of this is achieved in real time, before the next video frame arrives from the camera.

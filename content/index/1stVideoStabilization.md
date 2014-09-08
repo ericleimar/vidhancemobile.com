@@ -6,5 +6,5 @@ image = "1stVideoStabilization.svg"
 +++
 #### Capture breathtakingly smooth video from a handheld device in true real time.
 Vidhance is the first real-time purpose-built software video stabilization solution for mobile devices.
-Vidhance adds on top of existing stabilization technologies, augmenting camera capabilities.
-Vidhance removes the amateurish wobbling and swaying from video shoots on the go.
+Vidhance compliments existing stabilization technologies, thereby augmenting camera capabilities.
+Vidhance removes unwanted wobbling and swaying that occurs in most videos shot from a handheld device.

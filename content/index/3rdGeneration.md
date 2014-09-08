@@ -5,6 +5,6 @@ weight = 30
 image = "3rdGeneration.svg"
 +++
 #### The Next Battlefield for Satisfying Users
-Vidhance uses a optical flow based video stabilization that stabilizes video.
-It builds on, and take advantage off, existing stabilization technologies - and push the limit of user satisfaction further.
-A 3rd generation solution is needed to propel widespread video clip sharing to the levels of still photos.
+Vidhance uses an optical flow based video stabilization technique that builds on, and take advantage of, existing stabilization technologies.
+Vidhance pushes the limit of user satisfaction with their own recordings.
+Our 3rd generation solution is needed to propel widespread video clip sharing to the levels where still photo sharing is today.
