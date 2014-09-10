@@ -1,7 +1,7 @@
 +++
 title = "Integrated into Operating System"
 date = 2014-08-20T01:40:17Z
-weight = 40
+weight = 53
 image = "integration.svg"
 +++
 #### Snap On as a Hidden Layer
