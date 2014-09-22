@@ -4,7 +4,7 @@ date = 2014-08-20T01:40:17Z
 weight = 53
 image = "integration.svg"
 +++
-#### Snap On as a Hidden Layer
+# Snap On as a Hidden Layer
 Integration into the device's operating system is made easy, by wrapping the existing camera driver.
 The Vidhance analysis algorithms add:
 
