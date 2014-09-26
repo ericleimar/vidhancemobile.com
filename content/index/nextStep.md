@@ -2,7 +2,7 @@
 title = "Next Step in Stabilization"
 date = 2014-08-20T01:40:17Z
 weight = 25
-image = "nextStep.svg"
+image = "nextStep.png"
 +++
 # No Sensors, no buffers, no delays.
 Excellent results from smartphone video require both motion sensors (like accelerometers) and optical flow stabilization.

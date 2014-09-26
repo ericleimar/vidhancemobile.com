@@ -2,7 +2,7 @@
 title = "Next Generation of Video User Experience"
 date = 2014-08-20T01:40:17Z
 weight = 20
-image = "3rdGeneration.svg"
+image = "3rdGeneration.png"
 +++
 # Capture breathtakingly smooth video from a handheld device in true real-time.
 Vidhance is a unique *real-time, purpose-built all-software* video stabilization solution for mobile devices.

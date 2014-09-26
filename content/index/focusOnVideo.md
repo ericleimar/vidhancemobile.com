@@ -2,7 +2,7 @@
 title = "Focus on Video: Another Type of Stabilization"
 date = 2014-08-20T01:40:17Z
 weight = 22
-image = "1stVideoStabilization.svg"
+image = "1stVideoStabilization.png"
 +++
 # The next battlefield to satisfy users
 
