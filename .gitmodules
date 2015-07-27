@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/vidhance/vidhancemobile.com
-	branch = gh-pages
