@@ -1,25 +1,12 @@
-# Source files for vidhance.com
+# vidhancemobile.com
+Website for vidhancemobile.com.
 
-Original files for the Vidhance webpage.
+The site is built with [Hugo](http://gohugo.io/) and deployed to Github Pages.
 
-## Working on Windows
+Changes to the repository will trigger a [Wercker](http://wercker.com/) script that builds and deploys the site automatically.
 
-### Local Editing
-1. Open Atom
-  1. Start Hugo from taskbar
-  2. Open folder: `File > Open Folder...`
-2. Start Hugo
-  1. Press Windows button on keyboard
-  2. Type `cmd` and press enter
-  3. Type `cd ` and paste path to source file folder
-  4. Type `hugo server -w` and press enter
-3. View in browser
-  1. Open http://127.0.0.1:1313 in your browser
-4. Edit md-files in content folder. Save to preview.
+To run this site on a local computer follow these steps:
 
-### Publish Content
-1. Commit and push changes to source files.
-1. Empty `public` folder.
-2. Run `hugo` in source folder ().
-3. Commit in `public` folder and push.
-5. Verify by opening [vidhance.com](vidhance.com) from your browser and press reload.
+1. Clone the repository to your computer.
+2. Go to https://github.com/spf13/hugo/releases and download the latest release. (v0.14 was used to build this site)
+3. Stand in the root folder of the cloned repository and run "hugo -w server" to start a local webserver hosting the site and that refreshes the site when a file is edited.
