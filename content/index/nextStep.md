@@ -1,12 +1,12 @@
 +++
-title = "Next Step in Stabilization"
+title = "Handles All Degrees of Freedom"
 date = 2014-08-20T01:40:17Z
 weight = 25
-image = "nextStep.png"
+image = "6dof.png"
 +++
-# No Sensors, no buffers, no delays.
-Excellent results from smartphone video require both motion sensors (like accelerometers) and optical flow stabilization.
+# Also in low light scenarios 
+By adaptively using both gyro and image based technology Vidhance is also optimized for low light scenarios.
 
-Vidhance adds the latter, analyzing the video data only. Vidhance separates intended motion from unintended motion, and cancels out the latter. All of this is achieved in real-time, before the next video frame arrives from the camera.
-
-With no look-ahead frame buffers needed, performance can be increased, battery life improved, and the smooth video is readily available for preview, live feeds and encoding.
+Our software is robust with a high level of precision even in low light. We handle all six 
+degrees of freedom, all wobbling and swaying that occurs in most videos shot on a handheld device, 
+and also corrects for rolling shutter distortions. 

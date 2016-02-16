@@ -1,10 +1,11 @@
 +++
 
 date = 2014-08-20T01:40:17Z
+title = "Shrink File Size and Improve Live Feed Quality"
 weight = 72
 image = "compressiongraph.png"
 +++
-# Shrink file size and improve live feed quality
+
 
 Existing video encoding techniques do not handle hand-held video well. Small camera rotations render built-in compression methods significantly less efficient.
 
