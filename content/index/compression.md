@@ -1,7 +1,7 @@
 +++
 
 date = 2014-08-20T01:40:17Z
-title = "Shrink File Size and Improve Live Feed Quality"
+title = "Shrink File Size and Improve Feed Quality"
 weight = 72
 image = "compressiongraph.png"
 +++
