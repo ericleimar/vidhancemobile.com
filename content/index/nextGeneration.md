@@ -1,17 +1,16 @@
 +++
-title = "Next Generation of Video User Experience"
+title = "Breathtakingly Smooth Video in Real-time"
 date = 2014-08-20T01:40:17Z
 weight = 20
-image = "3rdGeneration.png"
 +++
-# Capture breathtakingly smooth video from a handheld device in true real-time.
-Vidhance is a unique *real-time, purpose-built all-software* video stabilization solution for mobile devices.
+# With Vidhance in your phone you can shoot videos and immediately reach professional results. 
 
-Vidhance complements existing stabilization technologies, thereby augmenting camera capabilities.
+You only need to concentrate on recording and Vidhance takes care of the rest, stabilization happens live as you are filming.
 
-Vidhance removes unwanted wobbling and swaying that occurs in most videos shot on a handheld device.
-
-Vidhance is a 3rd generation solution needed to propel widespread video clip sharing to the levels where still photo sharing is today.
+Vidhance is a patented, highly optimized platform of algorithms for real-time video enhancement, 
+with minimal latency and low processor requirements. 
+It's an intelligent software layer integrated around, or within, the driver, that augments hardware 
+through software. 
 
 > Generally speaking, image stabilization tech is processing-intensive to the point where it really isn’t feasible on mobile.
 
