@@ -1,7 +1,7 @@
 +++
 title = "Auto Zoom"
 date = 2014-08-20T01:40:17Z
-weight = 30
+weight = 66
 +++
 # Auto Zoom and and Auto Follow of moving objects
 
@@ -11,8 +11,7 @@ allowing for direct sharing of those moments to a wider audience.
 
 TechCrunch found our AutoZoome very interesting, read the [TechCrunch article] (http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/)
 
-> This has the potential to quickly change how we think about 
-> and record video on our smartphones.
+> This has the potential to quickly change how we think about and record video on our smartphones.
 
 TechCrunch, Frederic Lardinois, June 2015
 
